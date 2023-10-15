@@ -2,5 +2,5 @@ a = 1
 b = 1
 if a == b:
     print("a = b")
-else:
+else
     print("a != b")
